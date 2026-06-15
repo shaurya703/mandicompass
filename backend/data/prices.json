@@ -1,0 +1,2297 @@
+{
+  "_meta": {
+    "source": "ILLUSTRATIVE sample in Agmarknet schema; modal prices anchored to real Sept-2025 reference levels. Run scripts.fetch for live data.gov.in data.",
+    "arrival_date": "2025-09-15",
+    "records": 286
+  },
+  "prices": [
+    {
+      "market_id": "kolar",
+      "commodity_id": "tomato",
+      "min_price": 2632,
+      "max_price": 2996,
+      "modal_price": 2800,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ramanagara",
+      "commodity_id": "tomato",
+      "min_price": 2425,
+      "max_price": 2760,
+      "modal_price": 2580,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "tumkur",
+      "commodity_id": "tomato",
+      "min_price": 2829,
+      "max_price": 3220,
+      "modal_price": 3010,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mandya",
+      "commodity_id": "tomato",
+      "min_price": 2350,
+      "max_price": 2675,
+      "modal_price": 2500,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mysuru",
+      "commodity_id": "tomato",
+      "min_price": 1936,
+      "max_price": 2204,
+      "modal_price": 2060,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "davangere",
+      "commodity_id": "tomato",
+      "min_price": 2359,
+      "max_price": 2685,
+      "modal_price": 2510,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chitradurga",
+      "commodity_id": "tomato",
+      "min_price": 2585,
+      "max_price": 2942,
+      "modal_price": 2750,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "tomato",
+      "min_price": 2867,
+      "max_price": 3263,
+      "modal_price": 3050,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "belagavi",
+      "commodity_id": "tomato",
+      "min_price": 2133,
+      "max_price": 2428,
+      "modal_price": 2270,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "raichur",
+      "commodity_id": "tomato",
+      "min_price": 2782,
+      "max_price": 3167,
+      "modal_price": 2960,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kalaburagi",
+      "commodity_id": "tomato",
+      "min_price": 2509,
+      "max_price": 2856,
+      "modal_price": 2670,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ballari",
+      "commodity_id": "tomato",
+      "min_price": 2462,
+      "max_price": 2803,
+      "modal_price": 2620,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hindupur",
+      "commodity_id": "tomato",
+      "min_price": 2237,
+      "max_price": 2546,
+      "modal_price": 2380,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kolar",
+      "commodity_id": "onion",
+      "min_price": 1278,
+      "max_price": 1455,
+      "modal_price": 1360,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chikkaballapur",
+      "commodity_id": "onion",
+      "min_price": 1212,
+      "max_price": 1380,
+      "modal_price": 1290,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bengaluru",
+      "commodity_id": "onion",
+      "min_price": 1212,
+      "max_price": 1380,
+      "modal_price": 1290,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ramanagara",
+      "commodity_id": "onion",
+      "min_price": 1363,
+      "max_price": 1551,
+      "modal_price": 1450,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "tumkur",
+      "commodity_id": "onion",
+      "min_price": 1128,
+      "max_price": 1284,
+      "modal_price": 1200,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mandya",
+      "commodity_id": "onion",
+      "min_price": 1071,
+      "max_price": 1219,
+      "modal_price": 1140,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hassan",
+      "commodity_id": "onion",
+      "min_price": 1231,
+      "max_price": 1401,
+      "modal_price": 1310,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "davangere",
+      "commodity_id": "onion",
+      "min_price": 1278,
+      "max_price": 1455,
+      "modal_price": 1360,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chitradurga",
+      "commodity_id": "onion",
+      "min_price": 1278,
+      "max_price": 1455,
+      "modal_price": 1360,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "onion",
+      "min_price": 977,
+      "max_price": 1112,
+      "modal_price": 1040,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hubballi",
+      "commodity_id": "onion",
+      "min_price": 1052,
+      "max_price": 1198,
+      "modal_price": 1120,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "belagavi",
+      "commodity_id": "onion",
+      "min_price": 1457,
+      "max_price": 1658,
+      "modal_price": 1550,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "raichur",
+      "commodity_id": "onion",
+      "min_price": 1240,
+      "max_price": 1412,
+      "modal_price": 1320,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hosur",
+      "commodity_id": "onion",
+      "min_price": 1146,
+      "max_price": 1305,
+      "modal_price": 1220,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hindupur",
+      "commodity_id": "onion",
+      "min_price": 1278,
+      "max_price": 1455,
+      "modal_price": 1360,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kolar",
+      "commodity_id": "potato",
+      "min_price": 1231,
+      "max_price": 1401,
+      "modal_price": 1310,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chintamani",
+      "commodity_id": "potato",
+      "min_price": 1626,
+      "max_price": 1851,
+      "modal_price": 1730,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chikkaballapur",
+      "commodity_id": "potato",
+      "min_price": 1560,
+      "max_price": 1776,
+      "modal_price": 1660,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bengaluru",
+      "commodity_id": "potato",
+      "min_price": 1466,
+      "max_price": 1669,
+      "modal_price": 1560,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ramanagara",
+      "commodity_id": "potato",
+      "min_price": 1297,
+      "max_price": 1476,
+      "modal_price": 1380,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "tumkur",
+      "commodity_id": "potato",
+      "min_price": 1400,
+      "max_price": 1594,
+      "modal_price": 1490,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mandya",
+      "commodity_id": "potato",
+      "min_price": 1654,
+      "max_price": 1883,
+      "modal_price": 1760,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mysuru",
+      "commodity_id": "potato",
+      "min_price": 1635,
+      "max_price": 1861,
+      "modal_price": 1740,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "davangere",
+      "commodity_id": "potato",
+      "min_price": 1165,
+      "max_price": 1326,
+      "modal_price": 1240,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "potato",
+      "min_price": 1588,
+      "max_price": 1808,
+      "modal_price": 1690,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hubballi",
+      "commodity_id": "potato",
+      "min_price": 1306,
+      "max_price": 1487,
+      "modal_price": 1390,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "belagavi",
+      "commodity_id": "potato",
+      "min_price": 1353,
+      "max_price": 1540,
+      "modal_price": 1440,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bagalkot",
+      "commodity_id": "potato",
+      "min_price": 1184,
+      "max_price": 1348,
+      "modal_price": 1260,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "raichur",
+      "commodity_id": "potato",
+      "min_price": 1344,
+      "max_price": 1530,
+      "modal_price": 1430,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hosur",
+      "commodity_id": "potato",
+      "min_price": 1663,
+      "max_price": 1893,
+      "modal_price": 1770,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hindupur",
+      "commodity_id": "potato",
+      "min_price": 1579,
+      "max_price": 1797,
+      "modal_price": 1680,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kolar",
+      "commodity_id": "ragi",
+      "min_price": 3374,
+      "max_price": 3841,
+      "modal_price": 3590,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chintamani",
+      "commodity_id": "ragi",
+      "min_price": 3402,
+      "max_price": 3873,
+      "modal_price": 3620,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chikkaballapur",
+      "commodity_id": "ragi",
+      "min_price": 3214,
+      "max_price": 3659,
+      "modal_price": 3420,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bengaluru",
+      "commodity_id": "ragi",
+      "min_price": 3196,
+      "max_price": 3638,
+      "modal_price": 3400,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ramanagara",
+      "commodity_id": "ragi",
+      "min_price": 3055,
+      "max_price": 3477,
+      "modal_price": 3250,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "tumkur",
+      "commodity_id": "ragi",
+      "min_price": 3073,
+      "max_price": 3498,
+      "modal_price": 3270,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mandya",
+      "commodity_id": "ragi",
+      "min_price": 3064,
+      "max_price": 3488,
+      "modal_price": 3260,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mysuru",
+      "commodity_id": "ragi",
+      "min_price": 3393,
+      "max_price": 3862,
+      "modal_price": 3610,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hassan",
+      "commodity_id": "ragi",
+      "min_price": 3008,
+      "max_price": 3424,
+      "modal_price": 3200,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "ragi",
+      "min_price": 3280,
+      "max_price": 3734,
+      "modal_price": 3490,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hubballi",
+      "commodity_id": "ragi",
+      "min_price": 3083,
+      "max_price": 3509,
+      "modal_price": 3280,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "belagavi",
+      "commodity_id": "ragi",
+      "min_price": 3064,
+      "max_price": 3488,
+      "modal_price": 3260,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bagalkot",
+      "commodity_id": "ragi",
+      "min_price": 3083,
+      "max_price": 3509,
+      "modal_price": 3280,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "raichur",
+      "commodity_id": "ragi",
+      "min_price": 3393,
+      "max_price": 3862,
+      "modal_price": 3610,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kalaburagi",
+      "commodity_id": "ragi",
+      "min_price": 3290,
+      "max_price": 3745,
+      "modal_price": 3500,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ballari",
+      "commodity_id": "ragi",
+      "min_price": 3167,
+      "max_price": 3605,
+      "modal_price": 3370,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hosur",
+      "commodity_id": "ragi",
+      "min_price": 3177,
+      "max_price": 3616,
+      "modal_price": 3380,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hindupur",
+      "commodity_id": "ragi",
+      "min_price": 3308,
+      "max_price": 3766,
+      "modal_price": 3520,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kolar",
+      "commodity_id": "maize",
+      "min_price": 2209,
+      "max_price": 2514,
+      "modal_price": 2350,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chintamani",
+      "commodity_id": "maize",
+      "min_price": 2143,
+      "max_price": 2439,
+      "modal_price": 2280,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chikkaballapur",
+      "commodity_id": "maize",
+      "min_price": 2152,
+      "max_price": 2450,
+      "modal_price": 2290,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bengaluru",
+      "commodity_id": "maize",
+      "min_price": 2124,
+      "max_price": 2418,
+      "modal_price": 2260,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ramanagara",
+      "commodity_id": "maize",
+      "min_price": 2218,
+      "max_price": 2525,
+      "modal_price": 2360,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mandya",
+      "commodity_id": "maize",
+      "min_price": 2152,
+      "max_price": 2450,
+      "modal_price": 2290,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mysuru",
+      "commodity_id": "maize",
+      "min_price": 2162,
+      "max_price": 2461,
+      "modal_price": 2300,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hassan",
+      "commodity_id": "maize",
+      "min_price": 2180,
+      "max_price": 2482,
+      "modal_price": 2320,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "davangere",
+      "commodity_id": "maize",
+      "min_price": 2143,
+      "max_price": 2439,
+      "modal_price": 2280,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chitradurga",
+      "commodity_id": "maize",
+      "min_price": 2077,
+      "max_price": 2364,
+      "modal_price": 2210,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "maize",
+      "min_price": 1974,
+      "max_price": 2247,
+      "modal_price": 2100,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hubballi",
+      "commodity_id": "maize",
+      "min_price": 2180,
+      "max_price": 2482,
+      "modal_price": 2320,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "belagavi",
+      "commodity_id": "maize",
+      "min_price": 2077,
+      "max_price": 2364,
+      "modal_price": 2210,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bagalkot",
+      "commodity_id": "maize",
+      "min_price": 2171,
+      "max_price": 2471,
+      "modal_price": 2310,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kalaburagi",
+      "commodity_id": "maize",
+      "min_price": 2011,
+      "max_price": 2289,
+      "modal_price": 2140,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ballari",
+      "commodity_id": "maize",
+      "min_price": 2237,
+      "max_price": 2546,
+      "modal_price": 2380,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hindupur",
+      "commodity_id": "maize",
+      "min_price": 2218,
+      "max_price": 2525,
+      "modal_price": 2360,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kolar",
+      "commodity_id": "paddy",
+      "min_price": 2209,
+      "max_price": 2514,
+      "modal_price": 2350,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chintamani",
+      "commodity_id": "paddy",
+      "min_price": 2218,
+      "max_price": 2525,
+      "modal_price": 2360,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chikkaballapur",
+      "commodity_id": "paddy",
+      "min_price": 2180,
+      "max_price": 2482,
+      "modal_price": 2320,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bengaluru",
+      "commodity_id": "paddy",
+      "min_price": 2284,
+      "max_price": 2600,
+      "modal_price": 2430,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ramanagara",
+      "commodity_id": "paddy",
+      "min_price": 2190,
+      "max_price": 2493,
+      "modal_price": 2330,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "tumkur",
+      "commodity_id": "paddy",
+      "min_price": 2077,
+      "max_price": 2364,
+      "modal_price": 2210,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mandya",
+      "commodity_id": "paddy",
+      "min_price": 2218,
+      "max_price": 2525,
+      "modal_price": 2360,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mysuru",
+      "commodity_id": "paddy",
+      "min_price": 2096,
+      "max_price": 2386,
+      "modal_price": 2230,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hassan",
+      "commodity_id": "paddy",
+      "min_price": 2237,
+      "max_price": 2546,
+      "modal_price": 2380,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "davangere",
+      "commodity_id": "paddy",
+      "min_price": 2077,
+      "max_price": 2364,
+      "modal_price": 2210,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chitradurga",
+      "commodity_id": "paddy",
+      "min_price": 2199,
+      "max_price": 2503,
+      "modal_price": 2340,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "paddy",
+      "min_price": 2077,
+      "max_price": 2364,
+      "modal_price": 2210,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hubballi",
+      "commodity_id": "paddy",
+      "min_price": 2293,
+      "max_price": 2610,
+      "modal_price": 2440,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bagalkot",
+      "commodity_id": "paddy",
+      "min_price": 2256,
+      "max_price": 2568,
+      "modal_price": 2400,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "raichur",
+      "commodity_id": "paddy",
+      "min_price": 2209,
+      "max_price": 2514,
+      "modal_price": 2350,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hosur",
+      "commodity_id": "paddy",
+      "min_price": 2256,
+      "max_price": 2568,
+      "modal_price": 2400,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hindupur",
+      "commodity_id": "paddy",
+      "min_price": 2293,
+      "max_price": 2610,
+      "modal_price": 2440,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kolar",
+      "commodity_id": "jowar",
+      "min_price": 3299,
+      "max_price": 3755,
+      "modal_price": 3510,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chintamani",
+      "commodity_id": "jowar",
+      "min_price": 2998,
+      "max_price": 3413,
+      "modal_price": 3190,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bengaluru",
+      "commodity_id": "jowar",
+      "min_price": 2895,
+      "max_price": 3295,
+      "modal_price": 3080,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ramanagara",
+      "commodity_id": "jowar",
+      "min_price": 3055,
+      "max_price": 3477,
+      "modal_price": 3250,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "tumkur",
+      "commodity_id": "jowar",
+      "min_price": 3036,
+      "max_price": 3456,
+      "modal_price": 3230,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mandya",
+      "commodity_id": "jowar",
+      "min_price": 3045,
+      "max_price": 3466,
+      "modal_price": 3240,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mysuru",
+      "commodity_id": "jowar",
+      "min_price": 3337,
+      "max_price": 3798,
+      "modal_price": 3550,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hassan",
+      "commodity_id": "jowar",
+      "min_price": 3186,
+      "max_price": 3627,
+      "modal_price": 3390,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "davangere",
+      "commodity_id": "jowar",
+      "min_price": 2885,
+      "max_price": 3284,
+      "modal_price": 3070,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chitradurga",
+      "commodity_id": "jowar",
+      "min_price": 3092,
+      "max_price": 3520,
+      "modal_price": 3290,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "jowar",
+      "min_price": 2876,
+      "max_price": 3274,
+      "modal_price": 3060,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hubballi",
+      "commodity_id": "jowar",
+      "min_price": 3261,
+      "max_price": 3712,
+      "modal_price": 3470,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "belagavi",
+      "commodity_id": "jowar",
+      "min_price": 3252,
+      "max_price": 3702,
+      "modal_price": 3460,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bagalkot",
+      "commodity_id": "jowar",
+      "min_price": 2961,
+      "max_price": 3370,
+      "modal_price": 3150,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "raichur",
+      "commodity_id": "jowar",
+      "min_price": 2932,
+      "max_price": 3338,
+      "modal_price": 3120,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kalaburagi",
+      "commodity_id": "jowar",
+      "min_price": 3130,
+      "max_price": 3563,
+      "modal_price": 3330,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ballari",
+      "commodity_id": "jowar",
+      "min_price": 2932,
+      "max_price": 3338,
+      "modal_price": 3120,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hosur",
+      "commodity_id": "jowar",
+      "min_price": 2885,
+      "max_price": 3284,
+      "modal_price": 3070,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hindupur",
+      "commodity_id": "jowar",
+      "min_price": 2885,
+      "max_price": 3284,
+      "modal_price": 3070,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kolar",
+      "commodity_id": "bajra",
+      "min_price": 2538,
+      "max_price": 2889,
+      "modal_price": 2700,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chintamani",
+      "commodity_id": "bajra",
+      "min_price": 2603,
+      "max_price": 2963,
+      "modal_price": 2770,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bengaluru",
+      "commodity_id": "bajra",
+      "min_price": 2575,
+      "max_price": 2931,
+      "modal_price": 2740,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ramanagara",
+      "commodity_id": "bajra",
+      "min_price": 2350,
+      "max_price": 2675,
+      "modal_price": 2500,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "tumkur",
+      "commodity_id": "bajra",
+      "min_price": 2462,
+      "max_price": 2803,
+      "modal_price": 2620,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mandya",
+      "commodity_id": "bajra",
+      "min_price": 2425,
+      "max_price": 2760,
+      "modal_price": 2580,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mysuru",
+      "commodity_id": "bajra",
+      "min_price": 2472,
+      "max_price": 2814,
+      "modal_price": 2630,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hassan",
+      "commodity_id": "bajra",
+      "min_price": 2293,
+      "max_price": 2610,
+      "modal_price": 2440,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "bajra",
+      "min_price": 2481,
+      "max_price": 2824,
+      "modal_price": 2640,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hubballi",
+      "commodity_id": "bajra",
+      "min_price": 2453,
+      "max_price": 2792,
+      "modal_price": 2610,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "belagavi",
+      "commodity_id": "bajra",
+      "min_price": 2462,
+      "max_price": 2803,
+      "modal_price": 2620,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "raichur",
+      "commodity_id": "bajra",
+      "min_price": 2491,
+      "max_price": 2835,
+      "modal_price": 2650,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kalaburagi",
+      "commodity_id": "bajra",
+      "min_price": 2613,
+      "max_price": 2974,
+      "modal_price": 2780,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hosur",
+      "commodity_id": "bajra",
+      "min_price": 2321,
+      "max_price": 2642,
+      "modal_price": 2470,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kolar",
+      "commodity_id": "wheat",
+      "min_price": 2415,
+      "max_price": 2749,
+      "modal_price": 2570,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chintamani",
+      "commodity_id": "wheat",
+      "min_price": 2331,
+      "max_price": 2653,
+      "modal_price": 2480,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chikkaballapur",
+      "commodity_id": "wheat",
+      "min_price": 2265,
+      "max_price": 2578,
+      "modal_price": 2410,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bengaluru",
+      "commodity_id": "wheat",
+      "min_price": 2284,
+      "max_price": 2600,
+      "modal_price": 2430,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ramanagara",
+      "commodity_id": "wheat",
+      "min_price": 2462,
+      "max_price": 2803,
+      "modal_price": 2620,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "tumkur",
+      "commodity_id": "wheat",
+      "min_price": 2397,
+      "max_price": 2728,
+      "modal_price": 2550,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mandya",
+      "commodity_id": "wheat",
+      "min_price": 2415,
+      "max_price": 2749,
+      "modal_price": 2570,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mysuru",
+      "commodity_id": "wheat",
+      "min_price": 2331,
+      "max_price": 2653,
+      "modal_price": 2480,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hassan",
+      "commodity_id": "wheat",
+      "min_price": 2387,
+      "max_price": 2717,
+      "modal_price": 2540,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "davangere",
+      "commodity_id": "wheat",
+      "min_price": 2331,
+      "max_price": 2653,
+      "modal_price": 2480,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chitradurga",
+      "commodity_id": "wheat",
+      "min_price": 2350,
+      "max_price": 2675,
+      "modal_price": 2500,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "wheat",
+      "min_price": 2425,
+      "max_price": 2760,
+      "modal_price": 2580,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hubballi",
+      "commodity_id": "wheat",
+      "min_price": 2340,
+      "max_price": 2664,
+      "modal_price": 2490,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "belagavi",
+      "commodity_id": "wheat",
+      "min_price": 2303,
+      "max_price": 2621,
+      "modal_price": 2450,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bagalkot",
+      "commodity_id": "wheat",
+      "min_price": 2209,
+      "max_price": 2514,
+      "modal_price": 2350,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "raichur",
+      "commodity_id": "wheat",
+      "min_price": 2387,
+      "max_price": 2717,
+      "modal_price": 2540,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kalaburagi",
+      "commodity_id": "wheat",
+      "min_price": 2312,
+      "max_price": 2632,
+      "modal_price": 2460,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hosur",
+      "commodity_id": "wheat",
+      "min_price": 2462,
+      "max_price": 2803,
+      "modal_price": 2620,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hindupur",
+      "commodity_id": "wheat",
+      "min_price": 2491,
+      "max_price": 2835,
+      "modal_price": 2650,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kolar",
+      "commodity_id": "tur",
+      "min_price": 6824,
+      "max_price": 7768,
+      "modal_price": 7260,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chintamani",
+      "commodity_id": "tur",
+      "min_price": 6542,
+      "max_price": 7447,
+      "modal_price": 6960,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chikkaballapur",
+      "commodity_id": "tur",
+      "min_price": 6852,
+      "max_price": 7800,
+      "modal_price": 7290,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ramanagara",
+      "commodity_id": "tur",
+      "min_price": 6401,
+      "max_price": 7286,
+      "modal_price": 6810,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "tumkur",
+      "commodity_id": "tur",
+      "min_price": 6523,
+      "max_price": 7425,
+      "modal_price": 6940,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mandya",
+      "commodity_id": "tur",
+      "min_price": 6645,
+      "max_price": 7564,
+      "modal_price": 7070,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hassan",
+      "commodity_id": "tur",
+      "min_price": 6702,
+      "max_price": 7629,
+      "modal_price": 7130,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "davangere",
+      "commodity_id": "tur",
+      "min_price": 7097,
+      "max_price": 8078,
+      "modal_price": 7550,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chitradurga",
+      "commodity_id": "tur",
+      "min_price": 7097,
+      "max_price": 8078,
+      "modal_price": 7550,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "tur",
+      "min_price": 6852,
+      "max_price": 7800,
+      "modal_price": 7290,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hubballi",
+      "commodity_id": "tur",
+      "min_price": 6486,
+      "max_price": 7383,
+      "modal_price": 6900,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "raichur",
+      "commodity_id": "tur",
+      "min_price": 6796,
+      "max_price": 7736,
+      "modal_price": 7230,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kalaburagi",
+      "commodity_id": "tur",
+      "min_price": 6551,
+      "max_price": 7457,
+      "modal_price": 6970,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ballari",
+      "commodity_id": "tur",
+      "min_price": 7040,
+      "max_price": 8014,
+      "modal_price": 7490,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hosur",
+      "commodity_id": "tur",
+      "min_price": 6871,
+      "max_price": 7821,
+      "modal_price": 7310,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kolar",
+      "commodity_id": "moong",
+      "min_price": 7266,
+      "max_price": 8271,
+      "modal_price": 7730,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chikkaballapur",
+      "commodity_id": "moong",
+      "min_price": 7247,
+      "max_price": 8249,
+      "modal_price": 7710,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ramanagara",
+      "commodity_id": "moong",
+      "min_price": 7388,
+      "max_price": 8410,
+      "modal_price": 7860,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "tumkur",
+      "commodity_id": "moong",
+      "min_price": 8206,
+      "max_price": 9341,
+      "modal_price": 8730,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mandya",
+      "commodity_id": "moong",
+      "min_price": 7191,
+      "max_price": 8185,
+      "modal_price": 7650,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mysuru",
+      "commodity_id": "moong",
+      "min_price": 7811,
+      "max_price": 8891,
+      "modal_price": 8310,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hassan",
+      "commodity_id": "moong",
+      "min_price": 7557,
+      "max_price": 8602,
+      "modal_price": 8040,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "davangere",
+      "commodity_id": "moong",
+      "min_price": 8215,
+      "max_price": 9351,
+      "modal_price": 8740,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chitradurga",
+      "commodity_id": "moong",
+      "min_price": 7369,
+      "max_price": 8388,
+      "modal_price": 7840,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "moong",
+      "min_price": 7726,
+      "max_price": 8795,
+      "modal_price": 8220,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hubballi",
+      "commodity_id": "moong",
+      "min_price": 7708,
+      "max_price": 8774,
+      "modal_price": 8200,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "belagavi",
+      "commodity_id": "moong",
+      "min_price": 7971,
+      "max_price": 9073,
+      "modal_price": 8480,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "raichur",
+      "commodity_id": "moong",
+      "min_price": 7238,
+      "max_price": 8239,
+      "modal_price": 7700,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kalaburagi",
+      "commodity_id": "moong",
+      "min_price": 8225,
+      "max_price": 9362,
+      "modal_price": 8750,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hosur",
+      "commodity_id": "moong",
+      "min_price": 7905,
+      "max_price": 8998,
+      "modal_price": 8410,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hindupur",
+      "commodity_id": "moong",
+      "min_price": 7698,
+      "max_price": 8763,
+      "modal_price": 8190,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kolar",
+      "commodity_id": "urad",
+      "min_price": 7473,
+      "max_price": 8506,
+      "modal_price": 7950,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chintamani",
+      "commodity_id": "urad",
+      "min_price": 6880,
+      "max_price": 7832,
+      "modal_price": 7320,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chikkaballapur",
+      "commodity_id": "urad",
+      "min_price": 7388,
+      "max_price": 8410,
+      "modal_price": 7860,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bengaluru",
+      "commodity_id": "urad",
+      "min_price": 7388,
+      "max_price": 8410,
+      "modal_price": 7860,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "tumkur",
+      "commodity_id": "urad",
+      "min_price": 7003,
+      "max_price": 7971,
+      "modal_price": 7450,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mandya",
+      "commodity_id": "urad",
+      "min_price": 6730,
+      "max_price": 7661,
+      "modal_price": 7160,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mysuru",
+      "commodity_id": "urad",
+      "min_price": 7275,
+      "max_price": 8281,
+      "modal_price": 7740,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "davangere",
+      "commodity_id": "urad",
+      "min_price": 7454,
+      "max_price": 8485,
+      "modal_price": 7930,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chitradurga",
+      "commodity_id": "urad",
+      "min_price": 6918,
+      "max_price": 7875,
+      "modal_price": 7360,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "urad",
+      "min_price": 6617,
+      "max_price": 7532,
+      "modal_price": 7040,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hubballi",
+      "commodity_id": "urad",
+      "min_price": 7040,
+      "max_price": 8014,
+      "modal_price": 7490,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "belagavi",
+      "commodity_id": "urad",
+      "min_price": 7003,
+      "max_price": 7971,
+      "modal_price": 7450,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kalaburagi",
+      "commodity_id": "urad",
+      "min_price": 6598,
+      "max_price": 7511,
+      "modal_price": 7020,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ballari",
+      "commodity_id": "urad",
+      "min_price": 7473,
+      "max_price": 8506,
+      "modal_price": 7950,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hindupur",
+      "commodity_id": "urad",
+      "min_price": 7125,
+      "max_price": 8110,
+      "modal_price": 7580,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kolar",
+      "commodity_id": "gram",
+      "min_price": 5376,
+      "max_price": 6120,
+      "modal_price": 5720,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chintamani",
+      "commodity_id": "gram",
+      "min_price": 5010,
+      "max_price": 5703,
+      "modal_price": 5330,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chikkaballapur",
+      "commodity_id": "gram",
+      "min_price": 4888,
+      "max_price": 5564,
+      "modal_price": 5200,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ramanagara",
+      "commodity_id": "gram",
+      "min_price": 5198,
+      "max_price": 5917,
+      "modal_price": 5530,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mandya",
+      "commodity_id": "gram",
+      "min_price": 5235,
+      "max_price": 5959,
+      "modal_price": 5570,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mysuru",
+      "commodity_id": "gram",
+      "min_price": 4878,
+      "max_price": 5553,
+      "modal_price": 5190,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hassan",
+      "commodity_id": "gram",
+      "min_price": 5348,
+      "max_price": 6088,
+      "modal_price": 5690,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chitradurga",
+      "commodity_id": "gram",
+      "min_price": 5348,
+      "max_price": 6088,
+      "modal_price": 5690,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "gram",
+      "min_price": 5076,
+      "max_price": 5778,
+      "modal_price": 5400,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hubballi",
+      "commodity_id": "gram",
+      "min_price": 5113,
+      "max_price": 5820,
+      "modal_price": 5440,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "belagavi",
+      "commodity_id": "gram",
+      "min_price": 5339,
+      "max_price": 6077,
+      "modal_price": 5680,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bagalkot",
+      "commodity_id": "gram",
+      "min_price": 5160,
+      "max_price": 5874,
+      "modal_price": 5490,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ballari",
+      "commodity_id": "gram",
+      "min_price": 5217,
+      "max_price": 5938,
+      "modal_price": 5550,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hosur",
+      "commodity_id": "gram",
+      "min_price": 4935,
+      "max_price": 5617,
+      "modal_price": 5250,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hindupur",
+      "commodity_id": "gram",
+      "min_price": 5066,
+      "max_price": 5767,
+      "modal_price": 5390,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kolar",
+      "commodity_id": "groundnut",
+      "min_price": 6608,
+      "max_price": 7522,
+      "modal_price": 7030,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chintamani",
+      "commodity_id": "groundnut",
+      "min_price": 6222,
+      "max_price": 7083,
+      "modal_price": 6620,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chikkaballapur",
+      "commodity_id": "groundnut",
+      "min_price": 6476,
+      "max_price": 7372,
+      "modal_price": 6890,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bengaluru",
+      "commodity_id": "groundnut",
+      "min_price": 6288,
+      "max_price": 7158,
+      "modal_price": 6690,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ramanagara",
+      "commodity_id": "groundnut",
+      "min_price": 6721,
+      "max_price": 7650,
+      "modal_price": 7150,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "tumkur",
+      "commodity_id": "groundnut",
+      "min_price": 6166,
+      "max_price": 7019,
+      "modal_price": 6560,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mysuru",
+      "commodity_id": "groundnut",
+      "min_price": 6721,
+      "max_price": 7650,
+      "modal_price": 7150,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hassan",
+      "commodity_id": "groundnut",
+      "min_price": 6185,
+      "max_price": 7040,
+      "modal_price": 6580,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "davangere",
+      "commodity_id": "groundnut",
+      "min_price": 6185,
+      "max_price": 7040,
+      "modal_price": 6580,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chitradurga",
+      "commodity_id": "groundnut",
+      "min_price": 6326,
+      "max_price": 7201,
+      "modal_price": 6730,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "groundnut",
+      "min_price": 5884,
+      "max_price": 6698,
+      "modal_price": 6260,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hubballi",
+      "commodity_id": "groundnut",
+      "min_price": 6175,
+      "max_price": 7029,
+      "modal_price": 6570,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "belagavi",
+      "commodity_id": "groundnut",
+      "min_price": 6363,
+      "max_price": 7243,
+      "modal_price": 6770,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bagalkot",
+      "commodity_id": "groundnut",
+      "min_price": 6542,
+      "max_price": 7447,
+      "modal_price": 6960,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "raichur",
+      "commodity_id": "groundnut",
+      "min_price": 6439,
+      "max_price": 7329,
+      "modal_price": 6850,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kalaburagi",
+      "commodity_id": "groundnut",
+      "min_price": 6805,
+      "max_price": 7746,
+      "modal_price": 7240,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ballari",
+      "commodity_id": "groundnut",
+      "min_price": 5940,
+      "max_price": 6762,
+      "modal_price": 6320,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hosur",
+      "commodity_id": "groundnut",
+      "min_price": 6627,
+      "max_price": 7543,
+      "modal_price": 7050,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hindupur",
+      "commodity_id": "groundnut",
+      "min_price": 5875,
+      "max_price": 6687,
+      "modal_price": 6250,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chintamani",
+      "commodity_id": "soybean",
+      "min_price": 4295,
+      "max_price": 4889,
+      "modal_price": 4570,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chikkaballapur",
+      "commodity_id": "soybean",
+      "min_price": 4493,
+      "max_price": 5114,
+      "modal_price": 4780,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bengaluru",
+      "commodity_id": "soybean",
+      "min_price": 4831,
+      "max_price": 5499,
+      "modal_price": 5140,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "tumkur",
+      "commodity_id": "soybean",
+      "min_price": 4446,
+      "max_price": 5061,
+      "modal_price": 4730,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mysuru",
+      "commodity_id": "soybean",
+      "min_price": 4549,
+      "max_price": 5178,
+      "modal_price": 4840,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hassan",
+      "commodity_id": "soybean",
+      "min_price": 4671,
+      "max_price": 5317,
+      "modal_price": 4970,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chitradurga",
+      "commodity_id": "soybean",
+      "min_price": 4549,
+      "max_price": 5178,
+      "modal_price": 4840,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "soybean",
+      "min_price": 4483,
+      "max_price": 5103,
+      "modal_price": 4770,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hubballi",
+      "commodity_id": "soybean",
+      "min_price": 4474,
+      "max_price": 5093,
+      "modal_price": 4760,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "belagavi",
+      "commodity_id": "soybean",
+      "min_price": 4634,
+      "max_price": 5275,
+      "modal_price": 4930,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "raichur",
+      "commodity_id": "soybean",
+      "min_price": 4916,
+      "max_price": 5596,
+      "modal_price": 5230,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kalaburagi",
+      "commodity_id": "soybean",
+      "min_price": 4925,
+      "max_price": 5606,
+      "modal_price": 5240,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ballari",
+      "commodity_id": "soybean",
+      "min_price": 4371,
+      "max_price": 4975,
+      "modal_price": 4650,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hindupur",
+      "commodity_id": "soybean",
+      "min_price": 4483,
+      "max_price": 5103,
+      "modal_price": 4770,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kolar",
+      "commodity_id": "sunflower",
+      "min_price": 6721,
+      "max_price": 7650,
+      "modal_price": 7150,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chintamani",
+      "commodity_id": "sunflower",
+      "min_price": 6805,
+      "max_price": 7746,
+      "modal_price": 7240,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chikkaballapur",
+      "commodity_id": "sunflower",
+      "min_price": 6627,
+      "max_price": 7543,
+      "modal_price": 7050,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bengaluru",
+      "commodity_id": "sunflower",
+      "min_price": 6495,
+      "max_price": 7393,
+      "modal_price": 6910,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mandya",
+      "commodity_id": "sunflower",
+      "min_price": 7012,
+      "max_price": 7982,
+      "modal_price": 7460,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "davangere",
+      "commodity_id": "sunflower",
+      "min_price": 6241,
+      "max_price": 7104,
+      "modal_price": 6640,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chitradurga",
+      "commodity_id": "sunflower",
+      "min_price": 6974,
+      "max_price": 7939,
+      "modal_price": 7420,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "sunflower",
+      "min_price": 6692,
+      "max_price": 7618,
+      "modal_price": 7120,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hubballi",
+      "commodity_id": "sunflower",
+      "min_price": 6918,
+      "max_price": 7875,
+      "modal_price": 7360,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "belagavi",
+      "commodity_id": "sunflower",
+      "min_price": 6664,
+      "max_price": 7586,
+      "modal_price": 7090,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bagalkot",
+      "commodity_id": "sunflower",
+      "min_price": 6946,
+      "max_price": 7907,
+      "modal_price": 7390,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "raichur",
+      "commodity_id": "sunflower",
+      "min_price": 6796,
+      "max_price": 7736,
+      "modal_price": 7230,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kalaburagi",
+      "commodity_id": "sunflower",
+      "min_price": 6871,
+      "max_price": 7821,
+      "modal_price": 7310,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ballari",
+      "commodity_id": "sunflower",
+      "min_price": 6974,
+      "max_price": 7939,
+      "modal_price": 7420,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hosur",
+      "commodity_id": "sunflower",
+      "min_price": 6871,
+      "max_price": 7821,
+      "modal_price": 7310,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hindupur",
+      "commodity_id": "sunflower",
+      "min_price": 6645,
+      "max_price": 7564,
+      "modal_price": 7070,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chintamani",
+      "commodity_id": "mustard",
+      "min_price": 5499,
+      "max_price": 6259,
+      "modal_price": 5850,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bengaluru",
+      "commodity_id": "mustard",
+      "min_price": 5912,
+      "max_price": 6730,
+      "modal_price": 6290,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ramanagara",
+      "commodity_id": "mustard",
+      "min_price": 5198,
+      "max_price": 5917,
+      "modal_price": 5530,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mandya",
+      "commodity_id": "mustard",
+      "min_price": 5536,
+      "max_price": 6302,
+      "modal_price": 5890,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mysuru",
+      "commodity_id": "mustard",
+      "min_price": 5884,
+      "max_price": 6698,
+      "modal_price": 6260,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hassan",
+      "commodity_id": "mustard",
+      "min_price": 5188,
+      "max_price": 5906,
+      "modal_price": 5520,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chitradurga",
+      "commodity_id": "mustard",
+      "min_price": 5179,
+      "max_price": 5895,
+      "modal_price": 5510,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "mustard",
+      "min_price": 5508,
+      "max_price": 6270,
+      "modal_price": 5860,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "belagavi",
+      "commodity_id": "mustard",
+      "min_price": 5564,
+      "max_price": 6334,
+      "modal_price": 5920,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bagalkot",
+      "commodity_id": "mustard",
+      "min_price": 5405,
+      "max_price": 6152,
+      "modal_price": 5750,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "raichur",
+      "commodity_id": "mustard",
+      "min_price": 5461,
+      "max_price": 6216,
+      "modal_price": 5810,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kalaburagi",
+      "commodity_id": "mustard",
+      "min_price": 5499,
+      "max_price": 6259,
+      "modal_price": 5850,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ballari",
+      "commodity_id": "mustard",
+      "min_price": 5856,
+      "max_price": 6666,
+      "modal_price": 6230,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hosur",
+      "commodity_id": "mustard",
+      "min_price": 5423,
+      "max_price": 6173,
+      "modal_price": 5770,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kolar",
+      "commodity_id": "cotton",
+      "min_price": 7134,
+      "max_price": 8121,
+      "modal_price": 7590,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chintamani",
+      "commodity_id": "cotton",
+      "min_price": 7332,
+      "max_price": 8346,
+      "modal_price": 7800,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chikkaballapur",
+      "commodity_id": "cotton",
+      "min_price": 7266,
+      "max_price": 8271,
+      "modal_price": 7730,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bengaluru",
+      "commodity_id": "cotton",
+      "min_price": 6796,
+      "max_price": 7736,
+      "modal_price": 7230,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "tumkur",
+      "commodity_id": "cotton",
+      "min_price": 7021,
+      "max_price": 7992,
+      "modal_price": 7470,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "mandya",
+      "commodity_id": "cotton",
+      "min_price": 6805,
+      "max_price": 7746,
+      "modal_price": 7240,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hassan",
+      "commodity_id": "cotton",
+      "min_price": 6711,
+      "max_price": 7639,
+      "modal_price": 7140,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "chitradurga",
+      "commodity_id": "cotton",
+      "min_price": 6730,
+      "max_price": 7661,
+      "modal_price": 7160,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "shivamogga",
+      "commodity_id": "cotton",
+      "min_price": 6833,
+      "max_price": 7778,
+      "modal_price": 7270,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "belagavi",
+      "commodity_id": "cotton",
+      "min_price": 7303,
+      "max_price": 8313,
+      "modal_price": 7770,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "bagalkot",
+      "commodity_id": "cotton",
+      "min_price": 6739,
+      "max_price": 7671,
+      "modal_price": 7170,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "kalaburagi",
+      "commodity_id": "cotton",
+      "min_price": 7407,
+      "max_price": 8431,
+      "modal_price": 7880,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "ballari",
+      "commodity_id": "cotton",
+      "min_price": 6730,
+      "max_price": 7661,
+      "modal_price": 7160,
+      "arrival_date": "2025-09-15"
+    },
+    {
+      "market_id": "hosur",
+      "commodity_id": "cotton",
+      "min_price": 6777,
+      "max_price": 7714,
+      "modal_price": 7210,
+      "arrival_date": "2025-09-15"
+    }
+  ]
+}

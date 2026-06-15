@@ -1,0 +1,20 @@
+[
+  {"id": "paddy", "name": "Paddy (Common)", "category": "cereal", "msp": 2369, "msp_season": "Kharif 2025-26", "unit": "₹/quintal"},
+  {"id": "wheat", "name": "Wheat", "category": "cereal", "msp": 2425, "msp_season": "Rabi 2025-26", "unit": "₹/quintal"},
+  {"id": "ragi", "name": "Ragi (Finger Millet)", "category": "millet", "msp": 4886, "msp_season": "Kharif 2025-26", "unit": "₹/quintal"},
+  {"id": "jowar", "name": "Jowar (Hybrid)", "category": "millet", "msp": 3699, "msp_season": "Kharif 2025-26", "unit": "₹/quintal"},
+  {"id": "bajra", "name": "Bajra (Pearl Millet)", "category": "millet", "msp": 2775, "msp_season": "Kharif 2025-26", "unit": "₹/quintal"},
+  {"id": "maize", "name": "Maize", "category": "cereal", "msp": 2400, "msp_season": "Kharif 2025-26", "unit": "₹/quintal"},
+  {"id": "tur", "name": "Tur / Arhar (Pigeon Pea)", "category": "pulse", "msp": 8000, "msp_season": "Kharif 2025-26", "unit": "₹/quintal"},
+  {"id": "moong", "name": "Moong (Green Gram)", "category": "pulse", "msp": 8768, "msp_season": "Kharif 2025-26", "unit": "₹/quintal"},
+  {"id": "urad", "name": "Urad (Black Gram)", "category": "pulse", "msp": 7800, "msp_season": "Kharif 2025-26", "unit": "₹/quintal"},
+  {"id": "gram", "name": "Gram (Chana)", "category": "pulse", "msp": 5650, "msp_season": "Rabi 2025-26", "unit": "₹/quintal"},
+  {"id": "groundnut", "name": "Groundnut", "category": "oilseed", "msp": 7263, "msp_season": "Kharif 2025-26", "unit": "₹/quintal"},
+  {"id": "soybean", "name": "Soybean (Yellow)", "category": "oilseed", "msp": 5328, "msp_season": "Kharif 2025-26", "unit": "₹/quintal"},
+  {"id": "sunflower", "name": "Sunflower Seed", "category": "oilseed", "msp": 7721, "msp_season": "Kharif 2025-26", "unit": "₹/quintal"},
+  {"id": "mustard", "name": "Rapeseed / Mustard", "category": "oilseed", "msp": 6010, "msp_season": "Rabi 2025-26", "unit": "₹/quintal"},
+  {"id": "cotton", "name": "Cotton (Medium Staple)", "category": "fibre", "msp": 7710, "msp_season": "Kharif 2025-26", "unit": "₹/quintal"},
+  {"id": "tomato", "name": "Tomato", "category": "vegetable", "msp": null, "msp_season": null, "unit": "₹/quintal"},
+  {"id": "onion", "name": "Onion", "category": "vegetable", "msp": null, "msp_season": null, "unit": "₹/quintal"},
+  {"id": "potato", "name": "Potato", "category": "vegetable", "msp": null, "msp_season": null, "unit": "₹/quintal"}
+]

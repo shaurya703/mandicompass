@@ -1,0 +1,28 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: mandicompass
+      POSTGRES_PASSWORD: mandicompass
+      POSTGRES_DB: mandicompass
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U mandicompass"]
+      interval: 3s
+      timeout: 3s
+      retries: 15
+  backend:
+    build: ./backend
+    environment:
+      DATABASE_URL: postgresql+psycopg://mandicompass:mandicompass@db:5432/mandicompass
+      CORS_ORIGINS: http://localhost:3000
+    depends_on:
+      db: { condition: service_healthy }
+    ports: ["8300:8000"]
+  frontend:
+    build: ./frontend
+    depends_on: [backend]
+    ports: ["3300:80"]
+volumes:
+  pgdata:

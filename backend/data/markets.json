@@ -1,0 +1,22 @@
+[
+  {"id": "kolar", "name": "Kolar APMC", "district": "Kolar", "state": "Karnataka", "lat": 13.136, "lon": 78.129},
+  {"id": "chintamani", "name": "Chintamani APMC", "district": "Chikkaballapur", "state": "Karnataka", "lat": 13.402, "lon": 78.057},
+  {"id": "chikkaballapur", "name": "Chikkaballapur APMC", "district": "Chikkaballapur", "state": "Karnataka", "lat": 13.435, "lon": 77.733},
+  {"id": "bengaluru", "name": "Bengaluru (Binny Mill) APMC", "district": "Bengaluru Urban", "state": "Karnataka", "lat": 12.975, "lon": 77.572},
+  {"id": "ramanagara", "name": "Ramanagara APMC", "district": "Ramanagara", "state": "Karnataka", "lat": 12.721, "lon": 77.281},
+  {"id": "tumkur", "name": "Tumakuru APMC", "district": "Tumakuru", "state": "Karnataka", "lat": 13.341, "lon": 77.101},
+  {"id": "mandya", "name": "Mandya APMC", "district": "Mandya", "state": "Karnataka", "lat": 12.523, "lon": 76.897},
+  {"id": "mysuru", "name": "Mysuru (Bandipalya) APMC", "district": "Mysuru", "state": "Karnataka", "lat": 12.296, "lon": 76.653},
+  {"id": "hassan", "name": "Hassan APMC", "district": "Hassan", "state": "Karnataka", "lat": 13.005, "lon": 76.099},
+  {"id": "davangere", "name": "Davangere APMC", "district": "Davangere", "state": "Karnataka", "lat": 14.466, "lon": 75.924},
+  {"id": "chitradurga", "name": "Chitradurga APMC", "district": "Chitradurga", "state": "Karnataka", "lat": 14.230, "lon": 76.398},
+  {"id": "shivamogga", "name": "Shivamogga APMC", "district": "Shivamogga", "state": "Karnataka", "lat": 13.929, "lon": 75.568},
+  {"id": "hubballi", "name": "Hubballi (Amaragol) APMC", "district": "Dharwad", "state": "Karnataka", "lat": 15.361, "lon": 75.115},
+  {"id": "belagavi", "name": "Belagavi APMC", "district": "Belagavi", "state": "Karnataka", "lat": 15.852, "lon": 74.498},
+  {"id": "bagalkot", "name": "Bagalkote APMC", "district": "Bagalkote", "state": "Karnataka", "lat": 16.181, "lon": 75.695},
+  {"id": "raichur", "name": "Raichur APMC", "district": "Raichur", "state": "Karnataka", "lat": 16.205, "lon": 77.355},
+  {"id": "kalaburagi", "name": "Kalaburagi APMC", "district": "Kalaburagi", "state": "Karnataka", "lat": 17.329, "lon": 76.834},
+  {"id": "ballari", "name": "Ballari APMC", "district": "Ballari", "state": "Karnataka", "lat": 15.139, "lon": 76.921},
+  {"id": "hosur", "name": "Hosur APMC", "district": "Krishnagiri", "state": "Tamil Nadu", "lat": 12.736, "lon": 77.830},
+  {"id": "hindupur", "name": "Hindupur APMC", "district": "Sri Sathya Sai", "state": "Andhra Pradesh", "lat": 13.828, "lon": 77.491}
+]
