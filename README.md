@@ -1,5 +1,7 @@
 # MandiCompass
 
+[![CI](https://github.com/shaurya703/mandicompass/actions/workflows/ci.yml/badge.svg)](https://github.com/shaurya703/mandicompass/actions/workflows/ci.yml)
+
 **Where should a farmer actually sell? The mandi with the highest price often isn't the one that pays the most — after transport, and after MSP.**
 
 A farmer with a load of tomatoes can sell at the local mandi or haul it 100 km to one quoting ₹300/quintal more. Every "today's mandi price" app shows the sticker prices and stops there. But the higher price can *lose* money once you subtract the cost of getting there — and none of them tell you when the price you're being offered is **below the government's Minimum Support Price**, which is the signal that actually protects a small farmer from a distress sale.
